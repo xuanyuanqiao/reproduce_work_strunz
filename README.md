@@ -1,6 +1,7 @@
 # reproduce_work_strunz
 
-- content:
+### content:
+
 - code_of_figures: 
     - analyze.R 
     - cell_communication.R
